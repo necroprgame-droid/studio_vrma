@@ -1,0 +1,6 @@
+{
+  "name": "Unity2VRMA Studio - Extrator & Conversor de Animações",
+  "description": "Extraia pacotes .unitypackage, visualize movimentos 3D em tempo real e converta animações Unity e FBX para o formato VRMA (VRMC_vrm_animation) com scripts Python e download direto.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
